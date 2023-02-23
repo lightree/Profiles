@@ -354,6 +354,11 @@ DOMAIN-KEYWORD,.pinterest.,PROXY
 DOMAIN-SUFFIX,pixiv.net,PROXY
 DOMAIN-SUFFIX,pixiv.org,PROXY
 DOMAIN-SUFFIX,pximg.net,PROXY
+# > Pocket Casts
+DOMAIN-SUFFIX,pocketcasts.com,PROXY
+DOMAIN-SUFFIX,wordpress.com,PROXY
+DOMAIN-SUFFIX,anchor.fm,PROXY
+DOMAIN-SUFFIX,acasts.com,PROXY
 # > Reddit
 DOMAIN-SUFFIX,redd.it,PROXY
 DOMAIN-SUFFIX,reddit.com,PROXY

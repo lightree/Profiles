@@ -298,6 +298,26 @@ DOMAIN-SUFFIX,discordapp.net,PROXY
 DOMAIN-SUFFIX,dropbox.com,PROXY
 DOMAIN-SUFFIX,dropboxapi.com,PROXY
 DOMAIN-SUFFIX,dropboxusercontent.com,PROXY
+
+# >  Epic
+# UPDATED: 2023-02-23
+HOST-SUFFIX,battlebreakers.com,PROXY
+HOST-SUFFIX,eac-cdn.com,PROXY
+HOST-SUFFIX,easy.ac,PROXY
+HOST-SUFFIX,easyanticheat.net,PROXY
+HOST-SUFFIX,epicgames.com,PROXY
+HOST-SUFFIX,epicgames.dev,PROXY
+HOST-SUFFIX,fortnite.com,PROXY
+HOST-SUFFIX,helpshift.com,PROXY
+HOST-SUFFIX,paragon.com,PROXY
+HOST-SUFFIX,playparagon.com,PROXY
+HOST-SUFFIX,roborecall.com,PROXY
+HOST-SUFFIX,shadowcomplex.com,PROXY
+HOST-SUFFIX,spyjinx.com,PROXY
+HOST-SUFFIX,unrealengine.com,PROXY
+HOST-SUFFIX,unrealtournament.com,PROXY
+HOST-KEYWORD,epicgames,PROXY
+
 # > Fastly
 DOMAIN-SUFFIX,freetls.fastly.net,PROXY
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net,PROXY
@@ -347,6 +367,22 @@ DOMAIN,assets1.xboxlive.com,PROXY
 DOMAIN,assets2.xboxlive.com,PROXY
 DOMAIN,az416426.vo.msecnd.net,PROXY
 DOMAIN,az668014.vo.msecnd.net,PROXY
+
+# > Overcast
+# UPDATED: 2023-02-23
+HOST-SUFFIX,overcast.fm,PROXY
+USER-AGENT,Overcast*,PROXY
+
+# > PikPak
+# UPDATED: 2023-02-23
+HOST-SUFFIX,dlandroid.rcv.sandai.net,PROXY
+HOST-SUFFIX,hub5idx.v6.shub.sandai.net,PROXY
+HOST-SUFFIX,hub5pn.wap.sandai.net,PROXY
+HOST-SUFFIX,hub5pnc.sandai.net,PROXY
+HOST-SUFFIX,hub5pr.v6.phub.sandai.net,PROXY
+HOST-SUFFIX,hubciddata.sandai.net,PROXY
+HOST-KEYWORD,mypikpak,PROXY
+
 # > Pinterest
 DOMAIN-SUFFIX,pinimg.com,PROXY
 DOMAIN-KEYWORD,.pinterest.,PROXY
@@ -354,11 +390,29 @@ DOMAIN-KEYWORD,.pinterest.,PROXY
 DOMAIN-SUFFIX,pixiv.net,PROXY
 DOMAIN-SUFFIX,pixiv.org,PROXY
 DOMAIN-SUFFIX,pximg.net,PROXY
+
 # > Pocket Casts
+# UPDATED: 2023-02-23
 DOMAIN-SUFFIX,pocketcasts.com,PROXY
 DOMAIN-SUFFIX,wordpress.com,PROXY
 DOMAIN-SUFFIX,anchor.fm,PROXY
 DOMAIN-SUFFIX,acasts.com,PROXY
+
+# > Pornhub
+# UPDATED: 2023-02-23
+DOMAIN-SUFFIX,phncdn.com,PROXY
+DOMAIN-SUFFIX,phprcdn.com,PROXY
+DOMAIN-SUFFIX,pornhub.com,PROXY
+DOMAIN-SUFFIX,pornhubpremium.com,PROXY
+
+# > Protonmail
+# UPDATED: 2023-02-23
+HOST-SUFFIX,pm.me,PROXY
+HOST-SUFFIX,proton.me,PROXY
+HOST-SUFFIX,protonmail.ch,PROXY
+HOST-SUFFIX,protonmail.com,PROXY
+HOST-SUFFIX,protonstatus.com,PROXY
+
 # > Reddit
 DOMAIN-SUFFIX,redd.it,PROXY
 DOMAIN-SUFFIX,reddit.com,PROXY
@@ -367,6 +421,15 @@ DOMAIN-SUFFIX,redditstatic.com,PROXY
 # > Reuters
 DOMAIN-SUFFIX,reuters.com,PROXY
 DOMAIN-SUFFIX,reutersmedia.net,PROXY
+
+# > Spark
+# UPDATED: 2023-02-23
+HOST-SUFFIX,amplitude.com,PROXY
+HOST-SUFFIX,firebaseio.com,PROXY
+HOST-SUFFIX,hockeyapp.net,PROXY
+HOST-SUFFIX,readdle.com,PROXY
+HOST-SUFFIX,smartmailcloud.com,PROXY
+
 # > Steam
 DOMAIN-SUFFIX,steamcommunity.com,PROXY
 # DOMAIN,store.steampowered.com,PROXY

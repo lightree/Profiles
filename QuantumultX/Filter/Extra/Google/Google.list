@@ -1,0 +1,35 @@
+# > Google Voice
+# 如果你的代理服务器不支持 udp-relay 可尝试 DIRECT 以免被 REJECT（部分 Google 服务器还可直连）
+DOMAIN,lens.l.google.com,Google
+
+
+# > Google Drive
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,Google
+USER-AGENT,Google.Drive*,Google
+USER-AGENT,*com.google.Drive*,Google
+DOMAIN-SUFFIX,docs.google.com,Google
+DOMAIN-SUFFIX,drive.google.com,Google
+DOMAIN-SUFFIX,googledrive.com,Google
+DOMAIN-SUFFIX,googleusercontent.com,Google
+DOMAIN,www.googleapis.com,Google
+
+# > Google Search
+DOMAIN-KEYWORD,www.google.,Google
+
+# > GoogleEarth
+HOST-SUFFIX,earth-pa.clients6.google.com,Google
+HOST-SUFFIX,earth.google.com,Google
+HOST-SUFFIX,kh.google.com,Google
+HOST-SUFFIX,khm.google.com,Google
+HOST-SUFFIX,khm.googleapis.com,Google
+HOST-SUFFIX,khm0.google.com,Google
+HOST-SUFFIX,khm0.googleapis.com,Google
+HOST-SUFFIX,khm1.google.com,Google
+HOST-SUFFIX,khm1.googleapis.com,Google
+HOST-SUFFIX,khm2.google.com,Google
+HOST-SUFFIX,khm2.googleapis.com,Google
+HOST-SUFFIX,khm3.google.com,Google
+HOST-SUFFIX,khm3.googleapis.com,Google
+HOST-SUFFIX,khmdb.google.com,Google
+HOST-SUFFIX,khmdb.googleapis.com,Google
+HOST-SUFFIX,mw1.google.com,Google

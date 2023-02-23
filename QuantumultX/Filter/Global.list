@@ -166,8 +166,6 @@ DOMAIN-SUFFIX,washingtonpost.com,PROXY
 DOMAIN-SUFFIX,wattpad.com,PROXY
 DOMAIN-SUFFIX,welt.de,PROXY
 DOMAIN-SUFFIX,whoer.net,PROXY
-DOMAIN-SUFFIX,wikimapia.org,PROXY
-DOMAIN-SUFFIX,wikiwand.com,PROXY
 DOMAIN-SUFFIX,wire.com,PROXY
 DOMAIN-SUFFIX,wireguard.com,PROXY
 DOMAIN-SUFFIX,wn.com,PROXY
@@ -478,6 +476,7 @@ DOMAIN-SUFFIX,twitpic.com,PROXY
 DOMAIN-SUFFIX,twitter.com,PROXY
 DOMAIN-SUFFIX,twitter.jp,PROXY
 DOMAIN-SUFFIX,vine.co,PROXY
+
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,mediawiki.org,PROXY
 DOMAIN-SUFFIX,wikibooks.org,PROXY
@@ -492,6 +491,7 @@ DOMAIN-SUFFIX,wikisource.org,PROXY
 DOMAIN-SUFFIX,wikiversity.org,PROXY
 DOMAIN-SUFFIX,wikivoyage.org,PROXY
 DOMAIN-SUFFIX,wiktionary.org,PROXY
+
 # > Yahoo
 DOMAIN-SUFFIX,yahoo.com,PROXY
 DOMAIN,search.yahoo.co.jp,PROXY
